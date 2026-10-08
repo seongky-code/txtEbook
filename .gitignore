@@ -1,0 +1,15 @@
+# 빌드 결과물
+build/
+app/build/
+.gradle/
+local.properties
+
+# 서명 키 (저장소에 올리지 말 것)
+*.jks
+keystore.properties
+
+# IDE·도구
+.idea/
+*.iml
+.kotlin/
+.DS_Store
